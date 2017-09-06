@@ -8,13 +8,13 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
-| Week 3        | **link**      				|
-| Week 4        | **link**      				|
-| Week 5        | **link**      				|
-| Week 6        | **link**						|
-| Week 7        | **link**						|	
-| Week 8        | **link**						|
-| Week 9        | **link**						|
+| Week 3        |https://docs.google.com/document/d/13SWFEaLfSaz9Jp-SgX_pe9Osq0R_00qgDGEWKMaNJWg/edit?usp=sharing|
+| Week 4        |https://docs.google.com/document/d/1bQwrc31SUA1kjAM2d3CKKhejyn8ghVfX619yLJdh0bY/edit?usp=sharing|
+| Week 5        |https://docs.google.com/document/d/1m1cttxAvOVaKnKIt_yg9NYzQu3GLNNxIUymjiPQylLE/edit?usp=sharing|
+| Week 6        |https://docs.google.com/document/d/1E2DSB9iJGIl1OsPzSPcQ7CnyANt1XhOr95ILT9zUkaA/edit?usp=sharing|
+| Week 7        |https://docs.google.com/document/d/1Pe2TBloEbow5okPwmdSZ0AbxZcqms3WW42OEL1tKdyQ/edit?usp=sharing|	
+| Week 8        |https://docs.google.com/document/d/1K8jJGsTJpTHPif3HGiES4wN872XTQQ5mNKr7mm-4iHs/edit?usp=sharing|
+| Week 9        |https://docs.google.com/document/d/1tu0cYuR-h6t6q7CLbhD8jHewFsmtLKob3M-rMyo368A/edit?usp=sharing|
 | Week 10       | **link**						|
 | Week 11       | **link**						|
 | Week 12       | **link**						|
