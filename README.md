@@ -8,15 +8,15 @@ To submit, add your link to the table below:
 | ------------- | ------------------------------|
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
-| Week 3        |https://docs.google.com/document/d/13SWFEaLfSaz9Jp-SgX_pe9Osq0R_00qgDGEWKMaNJWg/edit?usp=sharing|
-| Week 4        |https://docs.google.com/document/d/1bQwrc31SUA1kjAM2d3CKKhejyn8ghVfX619yLJdh0bY/edit?usp=sharing|
-| Week 5        |https://docs.google.com/document/d/1m1cttxAvOVaKnKIt_yg9NYzQu3GLNNxIUymjiPQylLE/edit?usp=sharing|
-| Week 6        |https://docs.google.com/document/d/1E2DSB9iJGIl1OsPzSPcQ7CnyANt1XhOr95ILT9zUkaA/edit?usp=sharing|
-| Week 7        |https://docs.google.com/document/d/1Pe2TBloEbow5okPwmdSZ0AbxZcqms3WW42OEL1tKdyQ/edit?usp=sharing|	
-| Week 8        |https://docs.google.com/document/d/1K8jJGsTJpTHPif3HGiES4wN872XTQQ5mNKr7mm-4iHs/edit?usp=sharing|
-| Week 9        |https://docs.google.com/document/d/1tu0cYuR-h6t6q7CLbhD8jHewFsmtLKob3M-rMyo368A/edit?usp=sharing|
-| Week 10       | **link**						|
-| Week 11       | **link**						|
+| Week 3        |https://medium.com/@tina.schendt/the-monty-hall-problem-418d34125be6|
+| Week 4        |https://medium.com/@tina.schendt/using-bayesian-inference-to-compare-terrorist-attacks-against-educational-institutional-and-d758327e0c39|
+| Week 5        |https://medium.com/@tina.schendt/dbscan-density-based-spatial-clustering-of-applications-with-noise-e10f35a91e1|
+| Week 6        |https://medium.com/@tina.schendt/washington-monument-by-the-numbers-70084b316916|
+| Week 7        |https://medium.com/@tina.schendt/using-nlp-to-understand-what-factors-have-an-influence-on-pay-scale-of-data-scientist-jobs-3001477ecdf4|	
+| Week 8        |https://medium.com/@tina.schendt/analyzing-sat-scores-cd3052e6d136|
+| Week 9        |https://medium.com/@tina.schendt/using-linear-regression-to-predict-sales-bfb7836e34eb|
+| Week 10       |https://medium.com/@tina.schendt/one-of-my-favorite-things-about-the-chesapeake-bay-blue-crabs-a664dc25957						|
+| Week 11       | https://medium.com/@tina.schendt/estimating-the-value-of-pi-using-a-monte-carlo-simulation-ae971dc88d01			|
 | Week 12       | **link**						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
