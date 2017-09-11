@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        |https://medium.com/@tina.schendt/using-linear-regression-to-predict-sales-bfb7836e34eb|
 | Week 10       |https://medium.com/@tina.schendt/one-of-my-favorite-things-about-the-chesapeake-bay-blue-crabs-a664dc25957						|
 | Week 11       | https://medium.com/@tina.schendt/estimating-the-value-of-pi-using-a-monte-carlo-simulation-ae971dc88d01			|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@tina.schendt/investigating-the-effects-of-terrorism-on-economic-and-human-development-88ee1417db5f						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
